@@ -32,6 +32,13 @@
   vertical-align: 2px;
 }
 
+._icon-vk:before {
+  content: "\e902";
+  margin-left: -2px;
+  font-size: x-small;
+  padding-right: 9px;
+}
+
 ._icon-cart:before {
   content: "\e904";
   font-size: 26px;
@@ -39,8 +46,10 @@
 
 ._icon-fb:before {
   content: "\e900";
+  padding-right: 10px;
 }
 
 ._icon-insta:before {
   content: "\e901";
+  padding-right: 10px;
 }
